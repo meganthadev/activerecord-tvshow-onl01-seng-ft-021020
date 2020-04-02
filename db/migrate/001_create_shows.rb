@@ -1,1 +1,3 @@
-class CreateShows < Active Record[]
+class CreateShows < Active Record::Migration[4.2]
+  
+  
