@@ -1,0 +1,1 @@
+class Show < Active Record::Base 
